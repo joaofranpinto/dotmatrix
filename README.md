@@ -1,5 +1,5 @@
 # Dot Matrix
-Off-school project. This project is still in progress and consists of two parts. The first, that is already done, consists of a dot matrix program that when a character is drawn it is written directly in code and added to the code. It contains a finished GUI made in SWING as shown by the following screeshot.
+Project done in my free time. This project is still in progress and consists of two parts. The first, that is already done, consists of a dot matrix program that when a character is drawn it is written directly in code and added to the code. It contains a finished GUI made in SWING as shown by the following screeshot.
 
 7x5 Standart Grid
 ![character dot-matrix 1](https://i.imgur.com/uCAo00v.png)
